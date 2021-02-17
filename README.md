@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/dosermind/doermind/master/Assets/GitHub_Header.png)
+![Header image](https://raw.githubusercontent.com/dosermind/dosermind/master/Assets/GitHub_Header.png)
 I'm a tech enthusiast who loves to learn about new things. Find more on my website below.
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>

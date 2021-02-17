@@ -1,5 +1,5 @@
 ![Header image](https://raw.githubusercontent.com/dosermind/dosermind/master/Assets/GitHub_Header.png)
-I'm a tech enthusiast who loves to learn about new things. Find more on my website below.
+I'm a computer enthusiast who loves to learn about new things. Find more on my website below.
 
 <img align='right' src='https://media.giphy.com/media/qXu0XdPmivC7e/giphy.gif' width='200"'>
 

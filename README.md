@@ -1,7 +1,7 @@
 ![Header image](https://raw.githubusercontent.com/dosermind/dosermind/master/Assets/GitHub_Header.png)
 I'm a tech enthusiast who loves to learn about new things. Find more on my website below.
 
-<img align='right' src='https://i.gifer.com/9QWK.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/qXu0XdPmivC7e/giphy.gif' width='200"'>
 
 
 [![Instagram Badge](https://img.shields.io/badge/-daniel.adriao-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniel.adriao/)](https://www.instagram.com/daniel.adriao/)
